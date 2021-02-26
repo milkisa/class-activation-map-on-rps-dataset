@@ -1,3 +1,7 @@
+![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture.PNG)
+![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture2.PNG)
+
+
 # CAM
 
 Class activation maps are a simple technique to get the discriminative image regions used by a CNN to identify a specific class in the image. In other words, a class activation map (CAM) lets us see which regions in the image were relevant to this class.
