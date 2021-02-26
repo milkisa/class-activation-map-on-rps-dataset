@@ -1,5 +1,5 @@
 ![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture.PNG)
-![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture2.PNG)
+![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture3.PNG)
 
 
 # CAM
