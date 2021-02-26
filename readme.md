@@ -11,7 +11,7 @@ Class activation maps are a simple technique to get the discriminative image reg
 
 
 ```bash
-pip install foobar
+pip install tensorflow
 ```
 
 ## Usage
