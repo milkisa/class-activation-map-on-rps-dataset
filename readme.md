@@ -2,7 +2,7 @@
 ![output](https://raw.githubusercontent.com/milkisa/cam/main/images/Capture3.PNG)
 
 
-# CAM
+# Class Activation Map on rock peper scisor dataset
 
 Class activation maps are a simple technique to get the discriminative image regions used by a CNN to identify a specific class in the image. In other words, a class activation map (CAM) lets us see which regions in the image were relevant to this class.
 
@@ -13,6 +13,8 @@ Class activation maps are a simple technique to get the discriminative image reg
 ```bash
 pip install tensorflow
 ```
+## Dataset
+ download the rock peper dataset from http://www.laurencemoroney.com/rock-paper-scissors-dataset/.
 
 ## Usage
 i used rock paper scissors dataset for visualization.
